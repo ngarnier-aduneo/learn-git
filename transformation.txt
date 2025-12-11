@@ -1,6 +1,3 @@
 Dans mon panier j'ai :
-- De la margarine
-- Des oeufs
+- Du beurre
 - De la farine
-- Du sucre
-- cerises
